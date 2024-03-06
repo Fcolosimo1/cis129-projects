@@ -3,7 +3,7 @@
 # Write a short program in Python that asks the user for the number of coffee and muffins they are purchasing.
 
 def main():
-num_coffee = int(input("Number of coffees: "))
+Num_coffee = int(input("Number of coffees: "))
 Num_muffins = int(input("Number of muffins: "))
 
 subtotal = num_coffee * 5 + num_muffins * 4
